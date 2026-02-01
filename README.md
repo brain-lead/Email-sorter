@@ -91,7 +91,7 @@ Part of the Brain Tools suite by Brain Lead.
 
 ## 🆘 Support
 
-- **Telegram**: [@iampopg](https://t.me/iampopg)
+- **Telegram**: [@brain_lead](https://t.me/brain_lead)
 
 ---
 
